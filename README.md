@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leandro Sebastián Zanatta</h1>
+# <h1 align="center">Hi 👋, I'm Leandro Sebastián Zanatta</h1>
 <h3 align="center">FullStack Developer from Argentina</h3>
 
 # ¿Who is 'Leandro Sebastián Zanatta'? 🇦🇷
