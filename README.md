@@ -1,7 +1,9 @@
-# Hi 👋, I'm Leandro Sebastián Zanatta
+# <h1 align="center">  Hi 👋, I'm Leandro Sebastián Zanatta </h1>
 <h3 align="center">FullStack Developer from Argentina</h3>
 
-<h1> ¿Who is 'Leandro Sebastián Zanatta'? 🇦🇷 </h1>
+<h2> ¿Who is 'Leandro Sebastián Zanatta'? 🇦🇷 </h2>
+ <p><strong> I'm a Full Stack Developer. </strong> I feel that I can contribute to whatever the team needs, always proactively for scalable and modularized projects where learning in process and results will be guaranteed.
+In my "Henrys bootcamp" training I acquired the solid knowledge that I have and used in my projects. I also gained the ability to learn very quickly and effectively. </p>
 
 - 🌱 I’m currently learning **Python and MongoDB**
 
