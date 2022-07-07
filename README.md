@@ -33,7 +33,7 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
   o al [deploy](https://your-job-seven.vercel.app) del mismo.
   </br>
   <div style={display:flex}>
-<img height='130' src='./images/Proyecto-Final/intro.png'>
+<img height='130' src='./images/Proyecto-Final/Intro.png'>
 <img height='130' src='./images/Proyecto-Final/chatt.png'>
 <img height='130' src='./images/Proyecto-Final/imagePF4.jpeg'>
 <img height='130' src='./images/Proyecto-Final/imagePF6.jpeg'>
