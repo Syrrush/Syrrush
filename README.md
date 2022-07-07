@@ -1,13 +1,38 @@
 # <h1 align="center">  Hi 👋, I'm Leandro Sebastián Zanatta </h1>
 <h3 align="center">FullStack Developer from Argentina</h3>
 
-<h2> ¿Who is 'Leandro Sebastián Zanatta'? 🇦🇷 </h2>
+##  <h2> Who is 'Leandro Sebastián Zanatta' ❓ 🇦🇷   </h2> 
  <p><strong> I'm a Full Stack Developer. </strong> I feel that I can contribute to whatever the team needs, always proactively for scalable and modularized projects where learning in process and results will be guaranteed.
 In my "Henrys bootcamp" training I acquired the solid knowledge that I have and used in my projects. I also gained the ability to learn very quickly and effectively. </p>
 
-- 🌱 I’m currently learning **Python and MongoDB**
+## Work Experience
+<h3> - <strong>Teaching Assistant</strong> 🚀 </h3>
+<h4> In SoyHenry 🚀 </h4>
+<p> Tasks 📔 <p/>
+<ul>
+<li> Coordinate a group of students to achieve integration into the study group. </li>
+<li>Guide students in the first steps of the course. </li>
+<li>Assist the practices and promote group collaboration (Pair Programming).</li>
+<li>Propose ideas to improve Bootcamp processes.</li> 
+</ul>
+<h3> - <strong>Tutor</strong> 💻 </h3>
+<h4> In CoderHouse 💻 </h4>
+<p> Tasks 📔 <p/>
+<ul>
+<li>Take attendance in each class. </li>
+<li>Follow-up of the students. </li>
+<li>Active participation in classes.</li>
+<li>Answer questions or queries.</li> 
+<li>Correct deliveries and provide returns within 72 hours.</li>
+<li>Provide support and help.</li> 
+</ul>
 
-- 📫 How to reach me **zanattasebas@gmail.com**
+## My Proyects
+
+
+### 🌱 I’m currently learning **Python and MongoDB**
+
+### 📫 How to reach me **zanattasebas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
