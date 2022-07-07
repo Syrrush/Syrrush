@@ -49,9 +49,9 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
   o al [deploy](https://puppies-pi.vercel.app) del mismo.
   </br>
   <div style={display:flex} >
-<img height='120' src='./images/Proyecto-Individual/puppies-1.png'>
-<img height='120' src='./images/Proyecto-Individual/puppies-2.png'>
-<img height='120' src='./images/Proyecto-Individual/puppies-3.png'>
+ <span><img height='130' src='./images/Proyecto-Individual/puppies-1.png'></span>
+<span><img height='130' src='./images/Proyecto-Individual/puppies-2.png'></span>
+<span><img height='130' src='./images/Proyecto-Individual/puppies-3.png'></span>
 </div>
 
 ### 🌱 I’m currently learning **Python and MongoDB**
