@@ -48,7 +48,7 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
 - En este [link](https://github.com/Syrrush/PI-DOGS) podrás ingresar al repositorio para ver el código
   o al [deploy](https://puppies-pi.vercel.app) del mismo.
   </br>
-  <div style={display:flex} flex-wrap=wrap >
+  <div style={display:flex} flex-direction="row" >
 <img height='120' src='./images/Proyecto-Individual/puppies-1.png'>
 <img height='120' src='./images/Proyecto-Individual/puppies-2.png'>
 <img height='120' src='./images/Proyecto-Individual/puppies-3.png'>
