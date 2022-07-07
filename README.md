@@ -28,7 +28,7 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
 </ul>
 
 ## My Proyects
-- En este <a href="https://github.com/Luciano-plaza/Your-Job" targer:"_blank">link</a> podrás ingresar al repositorio para ver el código
+- En este <a href="https://github.com/Luciano-plaza/Your-Job" target="_blank"> link </a> podrás ingresar al repositorio para ver el código
   o al [deploy](https://your-job-seven.vercel.app) del mismo.
 
 ### 🌱 I’m currently learning **Python and MongoDB**
