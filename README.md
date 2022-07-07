@@ -32,6 +32,7 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
 - En este <a href="https://github.com/Luciano-plaza/Your-Job">link </a> podrás ingresar al repositorio para ver el código
   o al <a href="https://your-job-seven.vercel.app">deploy </a> del mismo.
   </br>
+  </br>
   <div style={display:flex}>
 <img height='130' src='./images/Proyecto-Final/Intro.png'>
 <img height='130' src='./images/Proyecto-Final/chatt.png'>
