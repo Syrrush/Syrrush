@@ -28,8 +28,31 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
 </ul>
 
 ## My Proyects
+<h2> YourJob </h2>
 - En este [link](https://github.com/Luciano-plaza/Your-Job) podrás ingresar al repositorio para ver el código
   o al [deploy](https://your-job-seven.vercel.app) del mismo.
+  </br>
+  <div style={display:flex}>
+<img height='130' src='./images/Proyecto-Final/intro.png'>
+<img height='130' src='./images/Proyecto-Final/chatt.png'>
+<img height='130' src='./images/Proyecto-Final/imagePF4.jpeg'>
+<img height='130' src='./images/Proyecto-Final/imagePF6.jpeg'>
+<img height='130' src='./images/Proyecto-Final/imagePF7.jpeg'>
+<img height='130' src='./images/Proyecto-Final/super-admin.jpeg'>
+</div>
+
+</hr>
+
+<h2> Puppies </h2>
+
+- En este [link](https://github.com/Syrrush/PI-DOGS) podrás ingresar al repositorio para ver el código
+  o al [deploy](https://puppies-pi.vercel.app) del mismo.
+  </br>
+  <div style={display:flex}>
+<img height='130' src='./images/Proyecto-Individual/puppies-1.png'>
+<img height='130' src='./images/Proyecto-Individual/puppies-2.png'>
+<img height='130' src='./images/Proyecto-Individual/puppies-3.png'>
+</div>
 
 ### 🌱 I’m currently learning **Python and MongoDB**
 
