@@ -29,8 +29,7 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
 
 ## My Proyects
 <h2> YourJob </h2>
-- En este <a href="https://github.com/Luciano-plaza/Your-Job">link </a> podrás ingresar al repositorio para ver el código
-  o al <a href="https://your-job-seven.vercel.app">deploy </a> del mismo.
+- In this <a href="https://github.com/Luciano-plaza/Your-Job">link </a> you can enter the repository to see the code or to <a href="https://your-job-seven.vercel.app">deploy</a> it.
   </br>
   </br>
   <div style={display:flex}>
@@ -46,8 +45,7 @@ In my "Henrys bootcamp" training I acquired the solid knowledge that I have and 
 
 <h2> Puppies </h2>
 
-- En este [link](https://github.com/Syrrush/PI-DOGS) podrás ingresar al repositorio para ver el código
-  o al [deploy](https://puppies-pi.vercel.app) del mismo.
+- In this [link](https://github.com/Syrrush/PI-DOGS) you can enter the repository to see the code or to [deploy](https://puppies-pi.vercel.app) it.
   </br>
   <div style={display:flex} >
  <span><img height='130' src='./images/Proyecto-Individual/puppies-1.png'></span>
