@@ -1,66 +1,289 @@
-# <h1 align="center">  Hi 👋, I'm Leandro Sebastián Zanatta </h1>
-<h3 align="center">FullStack Developer from Argentina</h3>
+# <h1 align="center">Hi 👋, I'm Leandro Sebastián Zanatta</h1>
 
-##  <h2> Who is 'Leandro Sebastián Zanatta' ❓ 🇦🇷   </h2> 
- <p><strong> I'm a Full Stack Developer. </strong> I feel that I can contribute to whatever the team needs, always proactively for scalable and modularized projects where learning in process and results will be guaranteed.
-In my "Henrys bootcamp" training I acquired the solid knowledge that I have and used in my projects. I also gained the ability to learn very quickly and effectively. </p>
+<h3 align="center">FullStack Developer from Argentina 🇦🇷</h3>
 
-## Work Experience
-<h3> - <strong>Teaching Assistant</strong> 🚀 </h3>
-<h4> In SoyHenry 🚀 </h4>
-<p> Tasks 📔 <p/>
-<ul>
-<li> Coordinate a group of students to achieve integration into the study group. </li>
-<li>Guide students in the first steps of the course. </li>
-<li>Assist the practices and promote group collaboration (Pair Programming).</li>
-<li>Propose ideas to improve Bootcamp processes.</li> 
-</ul>
-<h3> - <strong>Tutor</strong> 💻 </h3>
-<h4> In CoderHouse 💻 </h4>
-<p> Tasks 📔 <p/>
-<ul>
-<li>Take attendance in each class. </li>
-<li>Follow-up of the students. </li>
-<li>Active participation in classes.</li>
-<li>Answer questions or queries.</li> 
-<li>Correct deliveries and provide returns within 72 hours.</li>
-<li>Provide support and help.</li> 
-</ul>
+---
 
-## My Proyects
-<h2> YourJob </h2>
-- In this <a href="https://github.com/Luciano-plaza/Your-Job">link </a> you can enter the repository to see the code or to <a href="https://your-job-seven.vercel.app">deploy</a> it.
-  </br>
-  </br>
-  <div style={display:flex}>
-<img height='130' src='./images/Proyecto-Final/Intro.png'>
-<img height='130' src='./images/Proyecto-Final/chatt.png'>
-<img height='130' src='./images/Proyecto-Final/imagePF4.jpeg'>
-<img height='130' src='./images/Proyecto-Final/imagePF6.jpeg'>
-<img height='130' src='./images/Proyecto-Final/imagePF7.jpeg'>
-<img height='130' src='./images/Proyecto-Final/super-admin.jpeg'>
-</div>
+## 🚀 About Me
 
-</hr>
+I'm a Full Stack Developer focused on building real-world products with practical impact.
 
-<h2> Puppies </h2>
+Currently, I design and develop applications under **SZ Tech**, a personal ecosystem of tools aimed at solving concrete problems — from sports booking systems to academic planning and e-commerce solutions integrated with WhatsApp.
 
-- In this [link](https://github.com/Syrrush/PI-DOGS) you can enter the repository to see the code or to [deploy](https://puppies-pi.vercel.app) it.
-  </br>
-  <div style={display:flex} >
- <span><img height='130' src='./images/Proyecto-Individual/puppies-1.png'></span>
-<span><img height='130' src='./images/Proyecto-Individual/puppies-2.png'></span>
-<span><img height='130' src='./images/Proyecto-Individual/puppies-3.png'></span>
-</div>
+I’m especially focused on:
 
-### 🌱 I’m currently learning **Python and MongoDB**
+* Building scalable and modular systems
+* Automating workflows (bots, integrations)
+* Creating products with real users
 
-### 📫 How to reach me **zanattasebas@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebastian-zanatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-zanatta" height="30" width="40" /></a>
-</p>
+## 🏢 SZ Tech
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**SZ Tech** is my personal development ecosystem where I build and maintain multiple products.
+
+Instead of isolated projects, I focus on tools that:
+
+* Solve real problems
+* Can scale into platforms
+* Share logic and infrastructure
+
+---
+
+## 🧩 Products
+
+### ⚽ ReservasZ
+
+Sports field booking platform with client-based customization.
+
+**Key features:**
+
+* Multi-tenant architecture
+* Admin dashboard with analytics (revenue, peak hours, usage)
+* Dynamic pricing and schedules
+* WhatsApp reservation flow
+* OCR validation for payment receipts
+
+🔗 https://reservasz.com
+
+---
+
+### 🎓 Trayecto Académico
+
+Academic planning system with an interactive curriculum map.
+
+**Includes:**
+
+* Interactive subject map
+* Status tracking (approved / in progress / pending)
+* Academic calendar
+* Google Calendar export
+* WhatsApp reminders for exams and assignments
+
+---
+
+### 🛒 TiendaZ
+
+Lightweight e-commerce system focused on simple sales with WhatsApp integration.
+
+**Key features:**
+
+* Product, category, and stock management
+* Visual product catalog
+* Shopping cart system
+* Automatic order submission via WhatsApp
+* Manual confirmation with automatic stock update
+
+---
+
+### 💰 CuántoMeSalió
+
+Cost tracking app for recipes and small-scale production.
+
+**Features:**
+
+* Ingredient-based calculations
+* Automatic total cost
+* Useful for small businesses or personal use
+
+---
+
+### 🎮 Pokémon Guide
+
+Quick reference app for Pokémon type matchups.
+
+**Features:**
+
+* Type effectiveness system
+* Fast counter lookup
+* Clean and simple UI
+
+---
+
+### 📖 ReadHub
+
+Book browsing app with filters and mock data.
+
+**Features:**
+
+* Search and filtering
+* UI-focused structure
+* Scalable for real data integration
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* TypeScript
+* Tailwind / CSS
+
+**Backend**
+
+* Node.js
+* Express
+* PostgreSQL / MongoDB
+* Supabase
+
+**Other**
+
+* WhatsApp integrations
+* OCR processing
+* Git & GitHub
+
+---
+
+## 📫 Contact
+
+📧 Email: [zanattasebas@gmail.com](mailto:zanattasebas@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/sebastian-zanatta
+
+---
+
+## ⚡ Philosophy
+
+I focus on building products, not just projects.
+
+Each application is designed to:
+
+* Solve real-world problems
+* Evolve over time
+* Integrate with other systems
+
+---
+
+---
+
+# <h1 align="center">Hola 👋, soy Leandro Sebastián Zanatta</h1>
+
+<h3 align="center">Desarrollador FullStack de Argentina 🇦🇷</h3>
+
+---
+
+## 🚀 Sobre mí
+
+Soy desarrollador Full Stack enfocado en crear productos reales con impacto práctico.
+
+Actualmente desarrollo aplicaciones dentro de **SZ Tech**, un ecosistema propio orientado a resolver problemas concretos: desde reservas deportivas hasta planificación académica y sistemas de venta integrados con WhatsApp.
+
+Me enfoco especialmente en:
+
+* Construcción de sistemas escalables y modulares
+* Automatización de procesos (bots, integraciones)
+* Desarrollo de productos con usuarios reales
+
+---
+
+## 🏢 SZ Tech
+
+**SZ Tech** es mi ecosistema de desarrollo donde creo y mantengo múltiples productos.
+
+No trabajo en proyectos aislados, sino en herramientas que:
+
+* Resuelven necesidades reales
+* Pueden escalar como plataformas
+* Comparten lógica e infraestructura
+
+---
+
+## 🧩 Productos
+
+### ⚽ ReservasZ
+
+Plataforma de reservas de canchas deportivas con personalización por cliente.
+
+**Características:**
+
+* Sistema multi-cliente
+* Panel administrativo con métricas
+* Precios y horarios dinámicos
+* Integración con WhatsApp
+* Validación de comprobantes mediante OCR
+
+🔗 https://reservasz.com
+
+---
+
+### 🎓 Trayecto Académico
+
+Sistema de planificación académica con mapa interactivo.
+
+**Incluye:**
+
+* Mapa de materias
+* Seguimiento de estado
+* Calendario académico
+* Exportación a Google Calendar
+* Bot de WhatsApp para recordatorios
+
+---
+
+### 🛒 TiendaZ
+
+Sistema de e-commerce simple orientado a ventas con integración a WhatsApp.
+
+**Características:**
+
+* Gestión de productos, categorías y stock
+* Catálogo visual
+* Carrito de compras
+* Envío automático del pedido por WhatsApp
+* Confirmación manual con actualización de stock
+
+---
+
+### 💰 CuántoMeSalió
+
+Aplicación para calcular costos de recetas o producción.
+
+---
+
+### 🎮 Pokémon Guide
+
+Guía de tipos de Pokémon y sus counters.
+
+---
+
+### 📖 ReadHub
+
+Aplicación de exploración de libros con filtros.
+
+---
+
+## 🛠️ Tecnologías
+
+**Frontend**
+
+* React
+* TypeScript
+* Tailwind / CSS
+
+**Backend**
+
+* Node.js
+* Express
+* PostgreSQL / MongoDB
+* Supabase
+
+---
+
+## 📫 Contacto
+
+📧 Email: [zanattasebas@gmail.com](mailto:zanattasebas@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/sebastian-zanatta
+
+---
+
+## ⚡ Filosofía
+
+No construyo solo proyectos, construyo productos.
+
+Cada aplicación está pensada para:
+
+* Resolver problemas reales
+* Evolucionar en el tiempo
+* Integrarse con otros sistemas
+
+---
